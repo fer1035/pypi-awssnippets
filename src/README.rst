@@ -10,7 +10,7 @@ Python3 classes and functions to execute common AWS operations.
 Usage Example
 -------------
 
-.. code-block:: python
+.. code-block:: PYTHON
 
    """Read secret string from AWS Secrets Manager."""
    import aws_snippets
