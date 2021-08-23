@@ -10,7 +10,7 @@ Python3 classes and functions to execute common AWS operations.
 Usage Example
 -------------
 
-.. code-block:: python
+.. code-block:: PYTHON
 
    """Read secret string from AWS Secrets Manager."""
    import aws_snippets
@@ -26,7 +26,7 @@ Get Full Functionality List from Docstring
 
 Python Commands:
 
-.. code-block:: python
+.. code-block:: PYTHON
 
    import aws_snippets
    help(aws_snippets)
@@ -40,7 +40,7 @@ BASH Commands:
 Output
 ------
 
-.. code-block:: txt
+.. code-block:: TXT
 
    Help on package aws_snippets:
 
