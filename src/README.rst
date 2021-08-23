@@ -26,7 +26,7 @@ Get Full Functionality List from Docstring
 
 Python Commands:
 
-.. code-block:: python
+.. code-block:: PYTHON
 
    import aws_snippets
    help(aws_snippets)
@@ -40,7 +40,7 @@ BASH Commands:
 Output
 ------
 
-.. code-block:: txt
+.. code-block:: TXT
 
    Help on package aws_snippets:
 
