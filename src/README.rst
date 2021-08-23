@@ -33,7 +33,7 @@ Python Commands:
 
 BASH Commands:
 
-.. code-block:: bash
+.. code-block:: BASH
 
    python -c 'import aws_snippets; help(aws_snippets)'
 
